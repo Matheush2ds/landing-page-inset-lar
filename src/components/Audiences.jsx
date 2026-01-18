@@ -1,4 +1,4 @@
-import { House, Buildings, Factory, Student } from '@phosphor-icons/react';
+import { House, Buildings, Factory, Student, ForkKnife, Barbell, FirstAid } from '@phosphor-icons/react';
 
 export default function Audiences() {
   return (
@@ -15,6 +15,12 @@ export default function Audiences() {
         </div>
         <div className="audience-item">
           <Factory size={32} weight="fill" /> <span>Indústrias</span>
+        </div>
+        <div className="audience-item">
+          <ForkKnife size={32} weight="fill" /> <span>Restaurantes</span>
+        </div>
+        <div className="audience-item">
+          <FirstAid size={32} weight="fill" /> <span>Hospitais</span>
         </div>
       </div>
     </div>

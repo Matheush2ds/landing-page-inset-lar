@@ -31,7 +31,7 @@ export default function Hero() {
         <h1>
           Dedetização e <span style={{color: '#00A859'}}>Desentupimento</span>
         </h1>
-        <p style={{marginBottom: '40px', fontSize: '1.1rem', color: '#ddd'}}>
+        <p style={{marginBottom: '40px', fontSize: '1.2rem', color: '#f0f0f0'}}>
           Soluções modernas e eficazes para o controle de pragas urbanas. 
           Garantia de um ambiente limpo e seguro para sua família ou empresa.
         </p>

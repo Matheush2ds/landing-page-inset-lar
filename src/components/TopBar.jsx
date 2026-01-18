@@ -6,16 +6,16 @@ export default function TopBar() {
       <div className="container top-bar-content">
         <div className="top-info">
           <span>
-            <MapPin size={16} color="#00A859" weight="fill" />
-            R. Machado de Assis, S/N, Termal, Caldas Novas - GO (794C+56)
+            <MapPin size={18} weight="fill" />
+            R. Machado de Assis, S/N, Termal, Caldas Novas - GO
           </span>
         </div>
         <div className="top-socials">
           <a href="https://www.facebook.com/INSERTLAR?mibextid=ZbWKwL" target="_blank" aria-label="Facebook">
-            <FacebookLogo size={20} />
+            <FacebookLogo size={22} weight="fill" />
           </a>
           <a href="https://www.instagram.com/insetlarcaldasnovas/" target="_blank" aria-label="Instagram">
-            <InstagramLogo size={20} />
+            <InstagramLogo size={22} weight="fill" />
           </a>
         </div>
       </div>

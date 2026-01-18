@@ -12,12 +12,12 @@ export default function Services() {
     { 
       title: "Dedetização", 
       img: imgDedetizacao, 
-      text: "Controle completo de multinsetos (Aranhas, Escorpiões, Baratas, Formigas). Utilizamos Bomba Costal e Micropulverização de alta pressão para criar barreiras químicas em rodapés e muros." 
+      text: "Controle completo de multinsetos (Aranhas, Escorpiões, Baratas, Formigas). Utilizamos Bomba Costal e Micropulverização." 
     },
     { 
       title: "Desentupimento", 
       img: imgDesentupimento, 
-      text: "Hidrojateamento profissional em fossas e caixas de gordura. Limpeza profunda e imediata sem quebrar pisos ou agredir o meio ambiente." 
+      text: "Hidrojateamento profissional em fossas e caixas de gordura. Limpeza profunda e imediata sem quebrar pisos." 
     },
     { 
       title: "Limpeza de C. de Gordura", 
